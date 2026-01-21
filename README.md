@@ -15,7 +15,7 @@ Project report for the course "Applicazioni dell'intelligenza artificiale". Desc
 <details>
 <summary>
 
-## 👉 Click here to read the university report
+## 👉 Click here to read the report
 
 </summary>
 
