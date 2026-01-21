@@ -1,4 +1,4 @@
-# Italian_Manuscripts_Kraken_OCR_Report
+# Italian Manuscripts Kraken OCR Report
 
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 [![Compilation_Test](https://github.com/R0mb0/Italian_Manuscripts_Kraken_OCR_Report/actions/workflows/Compilation_Test.yml/badge.svg)](https://github.com/R0mb0/Italian_Manuscripts_Kraken_OCR_Report/actions/workflows/Compilation_Test.yml)
@@ -9,6 +9,19 @@
 [![Donate](https://img.shields.io/badge/PayPal-Donate%20to%20Author-blue.svg)](http://paypal.me/R0mb0)
 
 Project report for the course "Applicazioni dell'intelligenza artificiale". Describes the design, training and evaluation of a Kraken-based OCR model for Italian handwritten manuscripts, including methodology, experimental setup and results discussion.
+
+---
+
+<details>
+<summary>
+
+## 👉 Click here to read the university report
+
+</summary>
+
+
+
+</details>
 
 
 ---
