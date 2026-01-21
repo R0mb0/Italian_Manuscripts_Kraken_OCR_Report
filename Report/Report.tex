@@ -47,7 +47,7 @@
 \addbibresource{riferimenti.bib}
 
 % Titolo e autori
-\title{Realizzazione di un sistema OCR per manoscritti italiani mediante Kraken}
+\title{Realizzazione di una applicazione OCR per manoscritti italiani mediante Kraken}
 \author{Francesco Rombaldoni\\
 \small Applicazioni dell'Intelligenza Artificiale\\
 \small Universit\`a degli Studi di Urbino Carlo Bo\\
@@ -258,10 +258,14 @@ Rate} (WER). Nel presente progetto, tuttavia, la metrica pi\`u rilevante per l'u
 normativi) \`e la correttezza delle singole parole.
 
 Per questo motivo si considera la seguente metrica intuitiva:
-\[
-\text{Accuratezza parole} =
-\frac{\text{\# parole riconosciute correttamente}}{\text{\# parole totali}}.
-\]
+
+{
+	\footnotesize
+	\[
+	\text{Accuratezza parole} =
+	\frac{\text{\# parole riconosciute correttamente}}{\text{\# parole totali}}.
+	\]
+}
 
 In tutti gli esperimenti ogni prova consiste nel sottoporre al modello un foglio contenente
 100 parole manoscritte, e nel contare quante di esse vengono riconosciute correttamente. I
@@ -407,7 +411,7 @@ Altra persona, stessa tipologia di fogli  & \(61\% \pm 2\%\) \\
 
 \section{Conclusioni}
 
-I risultati ottenuti indicano che il modello fine‑tunato rappresenta una prima base operativa per
+I risultati ottenuti indicano che il modello fine‑tuned rappresenta una prima base operativa per
 l'introduzione di un OCR per manoscritti italiani all'interno dell'INRCA. Nel caso della
 calligrafia specifica utilizzata per l'addestramento, il sistema raggiunge un'accuratezza a
 livello di parola prossima al 90\%, consentendo di ridurre in modo sensibile il tempo necessario
