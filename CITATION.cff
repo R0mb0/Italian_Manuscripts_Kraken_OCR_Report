@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+- family-names: "Rombaldoni"
+  given-names: "Francesco"
+title: "Italian_Manuscripts_Kraken_OCR_Report"
+version: 1.0.0
+date-released: 2026-01-21
+url: "https://github.com/R0mb0/Italian_Manuscripts_Kraken_OCR_Report"
