@@ -1,3 +1,5 @@
+Urbino`s University - Computing and digital innovation - Applications of Artificial Intelligence
+
 # Italian Manuscripts Kraken OCR Report
 
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
