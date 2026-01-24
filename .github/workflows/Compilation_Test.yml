@@ -17,5 +17,5 @@ jobs:
       - name: Upload compiled file
         uses: actions/upload-artifact@v6
         with: 
-          name: Naval-VHF-Report
+          name: Italian_Manuscripts_Kraken_OCR_Report
           path: Report/Report.pdf
