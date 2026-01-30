@@ -21,7 +21,14 @@ Project report for the course "Applicazioni dell'intelligenza artificiale". Desc
 
 </summary>
 
-
+![0001.png](https://github.com/R0mb0/Italian_Manuscripts_Kraken_OCR_Report/blob/main/ReadMe_Imgs/0001.png?raw=true)
+![0002.png](https://github.com/R0mb0/Italian_Manuscripts_Kraken_OCR_Report/blob/main/ReadMe_Imgs/0002.png?raw=true)
+![0003.png](https://github.com/R0mb0/Italian_Manuscripts_Kraken_OCR_Report/blob/main/ReadMe_Imgs/0003.png?raw=true)
+![0004.png](https://github.com/R0mb0/Italian_Manuscripts_Kraken_OCR_Report/blob/main/ReadMe_Imgs/0004.png?raw=true)
+![0005.png](https://github.com/R0mb0/Italian_Manuscripts_Kraken_OCR_Report/blob/main/ReadMe_Imgs/0005.png?raw=true)
+![0006.png](https://github.com/R0mb0/Italian_Manuscripts_Kraken_OCR_Report/blob/main/ReadMe_Imgs/0006.png?raw=true)
+![0007.png](https://github.com/R0mb0/Italian_Manuscripts_Kraken_OCR_Report/blob/main/ReadMe_Imgs/0007.png?raw=true)
+![0008.png](https://github.com/R0mb0/Italian_Manuscripts_Kraken_OCR_Report/blob/main/ReadMe_Imgs/0008.png?raw=true)
 
 </details>
 
