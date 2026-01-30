@@ -1,43 +1,45 @@
 \documentclass[11pt,a4paper]{article}
 
-% Pacchetti per la lingua e la codifica
+% Lingua e codifica
 \usepackage[utf8]{inputenc}
 \usepackage[italian]{babel}
 \usepackage[T1]{fontenc}
 
-% Pacchetti matematici e grafici
+% Matematica e simboli
 \usepackage{amsmath,amssymb}
+
+% Grafica e colori
 \usepackage[pdftex]{graphicx}
 \usepackage[svgnames]{xcolor}
-\usepackage{float} % Per posizionare meglio le immagini/tabelle
 
-% Layout e formattazione
-\usepackage[margin=2.5cm]{geometry}
+% Layout e paragrafi
+\usepackage[margin=1in]{geometry}
 \usepackage{parskip}
 \usepackage{enumitem}
-\usepackage{setspace}
-\onehalfspacing % Interlinea per migliore leggibilità (stile relazione)
 
-% Pacchetti per codice e link
+% Tabelle
+\usepackage{array}
+\usepackage{booktabs}
+
+% Link ipertestuali
 \usepackage{hyperref}
-\hypersetup{
-	colorlinks=true,
-	linkcolor=DarkBlue,
-	filecolor=magenta,      
-	urlcolor=cyan,
-	pdftitle={Report Progetto IA},
-}
+
+% Codice
 \usepackage{minted}
 \setminted{
 	frame=single,
 	linenos,
-	fontsize=\small,
+	fontsize=\footnotesize,
 	breaklines,
 	breakanywhere,
 	numbersep=4pt,
 	xleftmargin=6pt,
 	framesep=2pt
 }
+
+% Grafici
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
 
 % Bibliografia
 \usepackage{csquotes}
