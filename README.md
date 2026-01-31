@@ -10,7 +10,7 @@ Urbino`s University - Computing and digital innovation - Applications of Artific
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/R0mb0/Italian_Manuscripts_Kraken_OCR_Report)
 [![Donate](https://img.shields.io/badge/PayPal-Donate%20to%20Author-blue.svg)](http://paypal.me/R0mb0)
 
-Project report for the course "Applicazioni dell'intelligenza artificiale". Describes the design, training and evaluation of a Kraken-based OCR model for Italian handwritten manuscripts, including methodology, experimental setup and results discussion.
+Project report for the course "Applications of Artificial Intelligence". Describes the design, training and evaluation of a Kraken-based OCR model for Italian handwritten manuscripts, including methodology, experimental setup and results discussion.
 
 ---
 
